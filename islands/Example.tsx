@@ -3,7 +3,7 @@ import {
   ListboxButton,
   ListboxOption,
   ListboxOptions,
-} from "https://esm.sh/@headlessui/react@2.0.4?external=react,react-dom";
+} from "https://esm.sh/@headlessui/react@2.0.4?external=react,react-dom,@types/react";
 import { IS_BROWSER } from "$fresh/runtime.ts";
 // import { useState } from 'react'
 
